@@ -1,0 +1,4 @@
+(package
+  (name     "flix-test")
+  (version  "0.1.0")
+)
